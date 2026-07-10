@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Some text"
+        }
+      ]
+    },
+    {
+      "type": "taskList",
+      "attrs": {
+        "localId": "68fda0b3-52f3-45d6-9136-9076c2c3c71f"
+      },
+      "content": [
+        {
+          "type": "taskItem",
+          "attrs": {
+            "localId": "27587fa7-cbf5-4343-a877-ad589a34f463",
+            "state": "TODO"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "AI1"
+            }
+          ]
+        },
+        {
+          "type": "taskItem",
+          "attrs": {
+            "localId": "6077b500-4811-4ab6-a24b-aaaba8edb8c0",
+            "state": "TODO"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "AI2"
+            }
+          ]
+        },
+        {
+          "type": "taskItem",
+          "attrs": {
+            "localId": "01a92431-0a0b-4447-a378-757833f50883",
+            "state": "TODO"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "AI3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    }
+  ]
+}
